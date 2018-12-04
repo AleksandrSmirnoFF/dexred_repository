@@ -1,0 +1,19 @@
+{
+  'update_id': 330953614,
+  'message': {
+    'message_id': 2,
+    'from': {
+      'id': 479486163,
+      'is_bot': False,
+      'first_name': 'Alexander',
+      'language_code': 'ru'
+    },
+    'chat': {
+      'id': 479486163,
+      'first_name': 'Alexander',
+      'type': 'private'
+    },
+    'date': 1543927597,
+    'text': 'd'
+  }
+}
